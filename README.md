@@ -66,6 +66,6 @@
    - **Response:**
      - The Lambda function returns a success message as an HTTP response if the record is deleted successfully.
 
-<img src="./assets/uml.png" alt="UML" width="500"/>
+<img src="./assets/uml.png" alt="UML" width="300"/>
 
 [Documentation_Screenshots](./assets/)
